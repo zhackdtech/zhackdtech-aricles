@@ -2,11 +2,11 @@
 
 Welcome to my personal blog repository! This space is dedicated to sharing my thoughts, experiences, and insights through articles and blog posts.
 
-## About
+### About
 
 This repository serves as the platform for hosting my personal blog, where I write articles on various topics of interest. Whether it's technology, personal development, travel, or anything in between, you'll find a diverse range of content reflecting my interests and perspectives.
 
-## Getting Started
+# Getting Started
 
 ### Exploring the Blog
 
@@ -24,11 +24,11 @@ Engage with the content by leaving comments, sharing articles on social media, o
 
 Stay updated on the latest articles and blog posts by following me on social media or subscribing to the blog's RSS feed. I'm always excited to connect with readers and fellow enthusiasts.
 
-## Feedback
+# Feedback
 
 Feedback is crucial for continuous improvement. If you have any feedback regarding the blog content, website design, or overall user experience, please feel free to reach out. Your input is invaluable in shaping the future direction of the blog.
 
-## License
+# License
 
 This repository is licensed under the [MIT License](LICENSE), allowing for the sharing and adaptation of the content, with appropriate attribution.
 
@@ -37,14 +37,9 @@ Thank you for visiting my personal blog repository. I hope you enjoy reading the
 Happy reading!
 
 
-## Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
-
-
-## Deployment
-
-To deploy this project run
 
 ```
 npm start
@@ -83,32 +78,22 @@ npm run eject
 
 - You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+# Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
+# Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
